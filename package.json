@@ -1,0 +1,14 @@
+{
+  "name": "my-ci-cd-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "start": "node index.js",
+  "test": "node test.js"
+}
+,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
